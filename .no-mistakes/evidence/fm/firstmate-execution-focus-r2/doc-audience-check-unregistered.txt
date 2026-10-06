@@ -1,0 +1,3 @@
+$ bin/fm-doc-audience-check.sh --inventory <inventory with the new skill entry removed>
+fm-doc-audience-check: unclassified: .agents/skills/firstmate-execution-focus/SKILL.md
+exit=1
